@@ -33,3 +33,9 @@ Here are some ideas to get you started:
 <div>
 	<img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white" />
 </div>
+
+</br>
+<div>
+	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=본인아이디&layout=compact"><br><br>
+	<img src="https://github-readme-stats.vercel.app/api?username=본인아이디&show_icons=true">
+</div>
