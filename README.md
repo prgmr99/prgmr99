@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <div>
-  	<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Habent sua fata libelli&fontSize=70" />
+  	<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=prgmr99_github&fontSize=70" />
 </div>
 
 🔭 Tech Stack 🔭
