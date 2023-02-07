@@ -19,6 +19,8 @@ Here are some ideas to get you started:
   	<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=prgmr99_github&fontSize=70" />
 </div>
 
+<!--<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>-->
+
 🔭 Tech Stack 🔭
 <div>
 	<img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=C&logoColor=white" />
