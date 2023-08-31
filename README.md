@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 </div>
 <div>
 	<img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white" />
-	<img src="https://img.shields.io/badge/Recoil-3578E5?style=flat&logo=React&logoColor=white" />
+	<img src="https://img.shields.io/badge/Recoil-3578E5?style=flat&logo=Recoil&logoColor=white" />
 </div>
 <div>
 	<img src="https://img.shields.io/badge/React Query-FF4154?style=flat&logo=React Query&logoColor=white" />
@@ -39,8 +39,7 @@ Here are some ideas to get you started:
 </br>
 🌱 I’m currently learning
 <div>
-	<img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white"/>
-	<img src="https://img.shields.io/badge/Redux-764ABC?style=flat&logo=React&logoColor=white" />
+	<img src="https://img.shields.io/badge/Redux-764ABC?style=flat&logo=Redux&logoColor=white" />
 </div>
 
 </br>
