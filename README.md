@@ -41,7 +41,7 @@ Here are some ideas to get you started:
 </br>
 🌱 I’m currently learning
 <div>
-	<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=Javascript&logoColor=white" />
+	<img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=Firebase&logoColor=white" />
 </div>
 
 </br>
