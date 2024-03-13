@@ -42,6 +42,7 @@ Here are some ideas to get you started:
 🌱 I’m currently learning
 <div>
 	<img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=Firebase&logoColor=white" />
+	<img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white" />
 </div>
 
 </br>
