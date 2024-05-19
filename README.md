@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-<div>
-	- Kwangwoon University (2019.03 ~ 2025.02)
-	- AWS Cloud Club (2024.03 ~ )
-	- Meeteam Frontend developer (2023.08 ~ )
-</div>
+
+- Kwangwoon University (2019.03 ~ 2025.02)
+- AWS Cloud Club (2024.03 ~ )
+- Meeteam front-end developer (2023.08 ~ )
+
 
 <!--
 **prgmr99/prgmr99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
