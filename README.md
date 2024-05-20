@@ -3,7 +3,7 @@
 
 - Kwangwoon University (2019.03 ~ 2025.02)
 - AWS Cloud Club (2024.03 ~ )
-- Meeteam front-end developer (2023.08 ~ )
+- Meeteam front-end developer (2023.08 ~ ) <a href="https://meeteam.co.kr">Check this out!</a>
 
 
 <!--
