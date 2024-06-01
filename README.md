@@ -1,6 +1,8 @@
 ### Hi there 👋
+I'm Seungjun Yeom(John), a `front-end developer`.
 
 
+### Activity & Career
 - Kwangwoon University (2019.03 ~ 2025.02)
 - AWS Cloud Club (2024.03 ~ )
 - Meeteam front-end developer (2023.08 ~ ) <a href="https://meeteam.co.kr">Check this out!</a>
@@ -52,7 +54,7 @@ Here are some ideas to get you started:
 </div>
 
 </br>
-<div>
+<!-- <div>
 	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prgmr99&layout=compact&theme=blue-green"><br><br>
 	<img src="https://github-readme-stats.vercel.app/api?username=prgmr99&show_icons=true&theme=blue-green">
-</div>
+</div> -->
