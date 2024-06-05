@@ -1,11 +1,13 @@
 ### Hi there 👋
 I'm Seungjun Yeom(John), a `front-end developer`.
+<a href="https://yeom99.notion.site/430caffabf234f8b8babd3776ffbdd98?pvs=4">Portfolio</a>
 
 
 ### Activity & Career
 - Kwangwoon University (2019.03 ~ 2025.02)
 - AWS Cloud Club (2024.03 ~ )
 - Meeteam front-end developer (2023.08 ~ ) <a href="https://meeteam.co.kr">Check this out!</a>
+
 
 
 <!--
