@@ -9,29 +9,13 @@ I'm Seungjun Yeom(John), a `front-end developer`.
 - Meeteam front-end developer (2023.08 ~ ) <a href="https://meeteam.co.kr">Check this out!</a>
 
 
-
-<!--
-**prgmr99/prgmr99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 <div>
   	<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=prgmr99_github&fontSize=70" />
 </div>
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
-🔭 Tech Stack 🔭
+### Tech Stack
 <div>
 	<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white" />
 	<img src="https://img.shields.io/badge/CSS-1572B6?style=flat&logo=CSS3&logoColor=white" />
@@ -49,7 +33,8 @@ Here are some ideas to get you started:
 	<img src="https://img.shields.io/badge/Styled components-DB7093?style=flat&logo=styled-components&logoColor=white" />
 </div>
 </br>
-🌱 I’m currently learning
+
+### I’m currently learning
 <div>
 	<img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=Firebase&logoColor=white" />
 	<img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white" />
