@@ -24,7 +24,6 @@
 - <a href="https://aws.amazon.com/ko/developer/community/students/cloudclubs/?community-captains-all.sort-by=item.additionalFields.sortPosition&community-captains-all.sort-order=asc&awsf.filter-location=*all&awsf.filter-year=*all">AWS Cloud Club</a> KWU 1st <sub>crew (2024.03 ~ )</sub>
 - SuperCoding Bootcamp 1st <sub>FE (2023.06 ~ 2023.10)</sub> 
 
-<br />
-<br />
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fprgmr99&count_bg=%2393D4D5&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
+<!--[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fprgmr99&count_bg=%2393D4D5&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)-->
