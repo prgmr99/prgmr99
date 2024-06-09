@@ -2,20 +2,23 @@
 
 ### <span style="font-size: 2em; font-weight: bold; background: linear-gradient(to right, #4A90E2, #9013FE); -webkit-background-clip: text; color: transparent; transition: background 0.5s;" onmouseover="this.style.background='linear-gradient(to right, #FF6A00, #EE0979)';" onmouseout="this.style.background='linear-gradient(to right, #4A90E2, #9013FE)';">Web Front-end Developer</span>
 
-<article >
-	<span>
-		<a href="https://yeom99.notion.site/430caffabf234f8b8babd3776ffbdd98?pvs=4">
-			<img src="https://img.shields.io/badge/Portfolio-ffffff?style=flat-square&logo=notion&logoColor=black"/>
-		</a>
-	</span>
-	<span>
-		<a href="https://yeomyeom.tistory.com">
-			<img src="https://img.shields.io/badge/Blog-000000?style=flat-square&logoColor=white"/>
-		</a>
-	</span>
-</article>
+<div>
+	<div align='left'>
+		<h6>Who am I? - 
+			<a href="https://yeom99.notion.site/430caffabf234f8b8babd3776ffbdd98?pvs=4" style="text-decoration-line: none">
+				<img src="https://img.shields.io/badge/Portfolio-ffffff?style=flat-square&logo=notion&logoColor=black"/>
+			</a>
+		</h6>
+	</div>
+	<div align='left'>
+		<h6>What I've learned - 
+			<a href="https://yeomyeom.tistory.com" style="text-decoration-line: none;">
+				<img src="https://img.shields.io/badge/Blog-5777FC?style=flat-square&logo=tistory&logoColor=white"/>
+			</a>
+		</h6>
+	</div>
+</div>
 
-<br />
 <br />
 
 ### Activity & Career 
