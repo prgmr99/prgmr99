@@ -1,27 +1,13 @@
 ## Seungjun Yeom | John 
 
-### <span style="font-size: 2em; font-weight: bold; background: linear-gradient(to right, #4A90E2, #9013FE); -webkit-background-clip: text; color: transparent; transition: background 0.5s;" onmouseover="this.style.background='linear-gradient(to right, #FF6A00, #EE0979)';" onmouseout="this.style.background='linear-gradient(to right, #4A90E2, #9013FE)';">Web Front-end Developer</span>
+### Web Front-end Developer
 
-<div>
-	<div align='left'>
-		<h6>Who am I? - 
-			<a href="https://yeom99.notion.site/430caffabf234f8b8babd3776ffbdd98?pvs=4" style="text-decoration-line: none">
-				<img src="https://img.shields.io/badge/Portfolio-ffffff?style=flat-square&logo=notion&logoColor=black"/>
-			</a>
-		</h6>
-	</div>
-	<div align='left'>
-		<h6>What I've learned - 
-			<a href="https://yeomyeom.tistory.com" style="text-decoration-line: none;">
-				<img src="https://img.shields.io/badge/Blog-5777FC?style=flat-square&logo=tistory&logoColor=white"/>
-			</a>
-		</h6>
-	</div>
-</div>
+
+###### About me ⟹ [![Portfolio](https://img.shields.io/badge/Portfolio-ffffff.svg?logo=Notion&logoColor=black)](https://yeom99.notion.site/430caffabf234f8b8babd3776ffbdd98?pvs=4/) [![Tech Blog](https://img.shields.io/badge/Blog-5777FC.svg?logo=Tistory&logoColor=white)](https://yeomyeom.tistory.com/)
 
 <br />
 
-### Activity & Career 
+### 🚴 Activity & Career 
 - KwangWoon University - Software Engineering major <sub>(2019.03 ~ 2025.02)</sub>
 - <img style="width: 1em;" src="https://www.meeteam.co.kr/favicon.ico"/> <a href="https://meeteam.co.kr">Meeteam</a> <sub>Front-end developer (2023.08 ~ )</sub> 
 - <a href="https://aws.amazon.com/ko/developer/community/students/cloudclubs/?community-captains-all.sort-by=item.additionalFields.sortPosition&community-captains-all.sort-order=asc&awsf.filter-location=*all&awsf.filter-year=*all">AWS Cloud Club</a> KWU 1st <sub>crew (2024.03 ~ )</sub>
