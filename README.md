@@ -3,7 +3,7 @@
 ### Web Front-end Developer
 
 
-###### About me ⟹ [![Portfolio](https://img.shields.io/badge/Portfolio-ffffff.svg?logo=Notion&logoColor=black)](https://yeom99.notion.site/430caffabf234f8b8babd3776ffbdd98?pvs=4/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2.svg?logo=LinkedIn&logoColor=white)](https://yeom99.notion.site/430caffabf234f8b8babd3776ffbdd98?pvs=4/)  
+###### About me ⟹ [![Portfolio](https://img.shields.io/badge/Portfolio-ffffff.svg?logo=Notion&logoColor=black)](https://yeom99.notion.site/430caffabf234f8b8babd3776ffbdd98?pvs=4/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2.svg?logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/seung-jun-yeom-a65876281/)  
 
 
 ###### Blog ⟹ [![Tech Blog](https://img.shields.io/badge/Blog-5777FC.svg?logo=Tistory&logoColor=white)](https://yeomyeom.tistory.com/)
