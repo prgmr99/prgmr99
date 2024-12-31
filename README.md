@@ -12,7 +12,7 @@
 <br />
 
 ### Activity & Career 
-- Vault Micro - CameraFi Studio <sub>Front-end engineer (2025.01 ~ )</sub> 
+- Vault Micro - CameraFi Studio <sub>Front-end developer (2025.01 ~ )</sub> 
 - <a href="https://www.depromeet.com/about">Depromeet</a> 16th <sub>Front-end developer (2025.01 ~ 2025.04)</sub>
 - KwangWoon University - Software Engineering major <sub>(2019.03 ~ 2025.02)</sub>
 - Vault Micro - <a href="https://studio.camerafi.com/ko/about">CameraFi Studio</a> <sub>Front-end developer Intern (2024.07 ~ 2024.12)</sub>
