@@ -12,6 +12,8 @@
 <br />
 
 ### Activity & Career 
+- Vault Micro - Front-end engineer <sub>(2025.01 ~ )</sub> 
+- Depromeet 16th - Front-end developer <sub>(2025.01 ~ 2025.04)</sub>
 - KwangWoon University - Software Engineering major <sub>(2019.03 ~ 2025.02)</sub>
 - Vault Micro - <a href="https://studio.camerafi.com/ko/about">CameraFi Studio</a> <sub>Front-end developer Intern (2024.07 ~ 2024.12)</sub>
 - <img style="width: 1em;" src="https://www.meeteam.co.kr/favicon.ico"/> <a href="https://meeteam.co.kr">Meeteam</a> <sub>Front-end developer (2023.08 ~ )</sub> 
