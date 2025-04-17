@@ -3,7 +3,7 @@
 ### Web Front-end Developer
 
 
-###### About me ⟹ [![Portfolio](https://img.shields.io/badge/Portfolio-ffffff.svg?logo=Notion&logoColor=black)](https://yeom99.notion.site/430caffabf234f8b8babd3776ffbdd98?pvs=4/) 
+###### About me ⟹ [![Portfolio](https://img.shields.io/badge/Portfolio-ffffff.svg?logo=Notion&logoColor=black)](https://yeom99.notion.site/1d689380c7de8087968ed7c87f96f5a9?pvs=4) 
 
 
 ###### Blog ⟹ [![Tech Blog](https://img.shields.io/badge/Blog-5777FC.svg?logo=Tistory&logoColor=white)](https://yeomyeom.tistory.com/)
