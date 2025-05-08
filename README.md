@@ -1,13 +1,7 @@
 ## Seungjun Yeom | John 
 
-### Web Front-end Developer
+Front-end Developer
 
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-ffffff.svg?logo=Notion&logoColor=black)](https://yeom99.notion.site/1d689380c7de8087968ed7c87f96f5a9?pvs=4) 
-[![Tech Blog](https://img.shields.io/badge/Blog-5777FC.svg?logo=Tistory&logoColor=white)](https://yeomyeom.tistory.com/)
-
-
-<br />
 
 ### Activity & Career 
 - Vault Micro - CameraFi Studio <sub>Front-end developer (2025.01 ~ )</sub>
