@@ -7,6 +7,7 @@ Front-end Developer
 - Vault Micro - CameraFi Studio <sub>Front-end developer (2025.01 ~ )</sub>
 - <a href="https://apps.apple.com/kr/app/spurt/id6743025568">Spurt</a> <sub>Front-end developer (2025.01 ~ )</sub>
 - <a href="https://www.layerapp.io/">Layer</a> <sub>Front-end developer (2025.05 ~ )</sub>
+- Notion Seoul Community <sub>1st Member (2025.04 ~ )</sub>
 - <a href="https://www.depromeet.com/about">Depromeet</a> 16th <sub>Front-end developer (2025.01 ~ 2025.04)</sub>
 - KwangWoon University <sub>Software Engineering major (2019.03 ~ 2025.02)</sub>
 - Vault Micro - <a href="https://studio.camerafi.com/ko/about">CameraFi Studio</a> <sub>Front-end developer Intern (2024.07 ~ 2024.12)</sub>
