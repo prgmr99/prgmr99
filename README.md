@@ -34,8 +34,7 @@ KwangWoon University <sub>Software Engineering major (2019.03 ~ 2025.02)</sub>
 <!--[![GitGarden](https://gitgarden.marshallku.dev/?user_name=prgmr99)](https://github.com/marshallku/gitgarden) -->
 
 ### Recent Posts
-
-<a href=https://yeomyeom.tistory.com/147>당근 인터뷰 회고 </a>
+<a href=https://yeomyeom.tistory.com/147>당근 인터뷰 회고  </a>
 <sub>createdAt : 2025.09.25</sub></br>
 <a href=https://yeomyeom.tistory.com/146>리렌더링 최적화 - 2편</a>
 <sub>createdAt : 2025.02.18</sub></br>
