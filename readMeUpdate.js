@@ -17,16 +17,16 @@ const parser = new Parser({
   try {
     // 기존 README.md 내용 읽기
     const existingContent = fs.readFileSync("README.md", "utf8");
-    
+
     // Recent Posts 섹션이 이미 있는지 확인하고 제거
     const recentPostsIndex = existingContent.indexOf("## Recent Posts");
     let baseContent = existingContent;
-    
+
     if (recentPostsIndex !== -1) {
       // 기존 Recent Posts 섹션이 있으면 그 부분을 제거
       baseContent = existingContent.substring(0, recentPostsIndex).trim();
     }
-    
+
     // Recent Posts 섹션 생성
     let recentPostsText = `\n\n## Recent Posts\n`;
 
