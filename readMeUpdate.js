@@ -40,7 +40,7 @@ const parser = new Parser({
       console.log(`추가될 제목: ${title}`);
       console.log(`추가될 링크: ${link}`);
 
-      const date = dayjs(pubDate).add(9, "hours").format("YYYY.MM.DD HH:mm:ss");
+      const date = dayjs(pubDate).add(9, "hours").format("YYYY.MM.DD");
       recentPostsText += `<a href=${link}>${title}</a>\n`;
       recentPostsText += `<sub>createdAt : ${date}</sub></br></br>\n`;
     }
