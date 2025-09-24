@@ -19,7 +19,7 @@ const parser = new Parser({
     const existingContent = fs.readFileSync("README.md", "utf8");
 
     // Recent Posts 섹션이 이미 있는지 확인하고 제거
-    const recentPostsIndex = existingContent.indexOf("## Recent Posts");
+    const recentPostsIndex = existingContent.indexOf("### Recent Posts");
     let baseContent = existingContent;
 
     if (recentPostsIndex !== -1) {
