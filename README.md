@@ -14,8 +14,6 @@ Front-end Developer
 - <a href="https://apps.apple.com/kr/app/spurt/id6743025568">Spurt</a> <sub>Front-end developer (2025.01 ~ )</sub>
 - <a href="https://www.depromeet.com/about">Depromeet</a> 16th <sub>Front-end developer (2025.01 ~ 2025.04)</sub>
 - <a href="https://aws.amazon.com/ko/developer/community/students/cloudclubs/?community-captains-all.sort-by=item.additionalFields.sortPosition&community-captains-all.sort-order=asc&awsf.filter-location=*all&awsf.filter-year=*all">AWS Cloud Club</a> KWU 1st <sub>crew (2024.03 ~ 2024.12)</sub>
-- <a href="https://meeteam.co.kr">Meeteam</a> <sub>Front-end developer (2023.08 ~ 2024.11)</sub>
-- SuperCoding Bootcamp 1st <sub>FE (2023.06 ~ 2023.10)</sub>
 
 ### Education
 
@@ -30,13 +28,14 @@ Front-end Developer
 <!--[![GitGarden](https://gitgarden.marshallku.dev/?user_name=prgmr99)](https://github.com/marshallku/gitgarden) -->
 
 ### Recent Posts
-- <a href=https://yeomyeom.tistory.com/147>당근 인터뷰 회고  </a>
-<sub>createdAt : 2025.09.25</sub></br>
+
+- <a href=https://yeomyeom.tistory.com/147>당근 인터뷰 회고 </a>
+  <sub>createdAt : 2025.09.25</sub></br>
 - <a href=https://yeomyeom.tistory.com/146>리렌더링 최적화 - 2편</a>
-<sub>createdAt : 2025.02.18</sub></br>
+  <sub>createdAt : 2025.02.18</sub></br>
 - <a href=https://yeomyeom.tistory.com/145>[JavaScript] k진수에서 소수 개수 구하기</a>
-<sub>createdAt : 2025.02.09</sub></br>
+  <sub>createdAt : 2025.02.09</sub></br>
 - <a href=https://yeomyeom.tistory.com/144>Next.js의 서버</a>
-<sub>createdAt : 2025.01.28</sub></br>
+  <sub>createdAt : 2025.01.28</sub></br>
 - <a href=https://yeomyeom.tistory.com/143>리렌더링 최적화 - 1편</a>
-<sub>createdAt : 2025.01.26</sub></br>
+  <sub>createdAt : 2025.01.26</sub></br>
