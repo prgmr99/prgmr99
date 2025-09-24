@@ -42,7 +42,7 @@ const parser = new Parser({
 
       const date = dayjs(pubDate).add(9, "hours").format("YYYY.MM.DD HH:mm:ss");
       recentPostsText += `<a href=${link}>${title}</a></br>\n`;
-      recentPostsText += `createdAt : ${date}</br></br>\n`;
+      recentPostsText += `<sub>createdAt : ${date}</sub></br></br>\n`;
     }
 
     // 기존 내용 + Recent Posts 합치기
