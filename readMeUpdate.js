@@ -28,7 +28,7 @@ const parser = new Parser({
     }
 
     // Recent Posts 섹션 생성
-    let recentPostsText = `\n\n## Recent Posts\n`;
+    let recentPostsText = `\n\n### Recent Posts\n`;
 
     // 피드 목록
     const feed = await parser.parseURL("https://yeomyeom.tistory.com/rss");
