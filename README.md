@@ -9,11 +9,12 @@
 
 #### Activity
 
+- <a href="https://www.npmjs.com/package/kr-corekit">kr-corekit</a> <sub>Maintainer (2025.08 ~ )</sub>
 - <a href="https://www.layerapp.io/">Layer</a> <sub>Front-end developer (2025.05 ~ )</sub>
-- Notion Seoul Community <sub>1st Member (2025.04 ~ )</sub>
-- <a href="https://apps.apple.com/kr/app/spurt/id6743025568">Spurt</a> <sub>Front-end developer (2025.01 ~ )</sub>
+- Notion Seoul Community <sub>Member (2025.04 ~ )</sub>
+- <a href="https://apps.apple.com/kr/app/spurt/id6743025568">Spurt</a> <sub>Front-end developer (2025.01 ~ 2025.07)</sub>
 - <a href="https://www.depromeet.com/about">Depromeet</a> 16th <sub>Front-end developer (2025.01 ~ 2025.04)</sub>
-- <a href="https://aws.amazon.com/ko/developer/community/students/cloudclubs/?community-captains-all.sort-by=item.additionalFields.sortPosition&community-captains-all.sort-order=asc&awsf.filter-location=*all&awsf.filter-year=*all">AWS Cloud Club</a> KWU 1st <sub>crew (2024.03 ~ 2024.12)</sub>
+- <a href="https://aws.amazon.com/ko/developer/community/students/cloudclubs/?community-captains-all.sort-by=item.additionalFields.sortPosition&community-captains-all.sort-order=asc&awsf.filter-location=*all&awsf.filter-year=*all">AWS Cloud Club</a> KWU <sub>crew (2024.03 ~ 2024.12)</sub>
 
 #### Education
 
