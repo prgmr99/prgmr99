@@ -5,7 +5,7 @@
 #### Career
 
 - Vault Micro - CameraFi Studio <sub>Front-end developer (2025.01 ~ )</sub>
-- Vault Micro - <a href="https://studio.camerafi.com/ko/about">CameraFi Studio</a> <sub>Front-end developer Intern (2024.07 ~ 2024.12)</sub>
+- Vault Micro - CameraFi Studio <sub>Front-end developer Intern (2024.07 ~ 2024.12)</sub>
 
 #### Activity
 
