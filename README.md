@@ -29,7 +29,9 @@
 <!--[![GitGarden](https://gitgarden.marshallku.dev/?user_name=prgmr99)](https://github.com/marshallku/gitgarden) -->
 
 #### Recent Posts
-- <a href=https://yeomyeom.tistory.com/147>당근 인터뷰 회고  </a>
+- <a href=https://yeomyeom.tistory.com/148>First Load JS 축소 및 번들 최적화 - 시즌 1</a>
+<sub>createdAt : 2025.11.18</sub></br>
+- <a href=https://yeomyeom.tistory.com/147>당근 인터뷰 회고 🥕</a>
 <sub>createdAt : 2025.09.25</sub></br>
 - <a href=https://yeomyeom.tistory.com/146>리렌더링 최적화 - 2편</a>
 <sub>createdAt : 2025.02.18</sub></br>
@@ -37,5 +39,4 @@
 <sub>createdAt : 2025.02.09</sub></br>
 - <a href=https://yeomyeom.tistory.com/144>Next.js의 서버</a>
 <sub>createdAt : 2025.01.28</sub></br>
-- <a href=https://yeomyeom.tistory.com/143>리렌더링 최적화 - 1편</a>
-<sub>createdAt : 2025.01.26</sub></br>
+
