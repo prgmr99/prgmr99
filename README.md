@@ -9,6 +9,7 @@
 
 #### Activity
 
+- <a href="https://github.com/opensource-contributors-group">OpenSource Contributors 10th</a> <sub>Member (2026.01.10 ~ 2026.01.25)</sub>
 - <a href="https://www.npmjs.com/package/kr-corekit">kr-corekit</a> <sub>Maintainer (2025.08 ~ )</sub>
 - <a href="https://www.layerapp.io/">Layer</a> <sub>Front-end developer (2025.05 ~ )</sub>
 - Notion Seoul Community <sub>Member (2025.04 ~ )</sub>
