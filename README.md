@@ -30,6 +30,9 @@
 <!--[![GitGarden](https://gitgarden.marshallku.dev/?user_name=prgmr99)](https://github.com/marshallku/gitgarden) -->
 
 #### Recent Posts
+
+- <a href=https://yeomyeom.tistory.com/149>First Load JS 축소 및 번들 최적화 - 시즌 2</a>
+<sub>createdAt : 2026.01.22</sub></br>
 - <a href=https://yeomyeom.tistory.com/148>First Load JS 축소 및 번들 최적화 - 시즌 1</a>
 <sub>createdAt : 2025.11.18</sub></br>
 - <a href=https://yeomyeom.tistory.com/147>당근 인터뷰 회고 🥕</a>
@@ -38,6 +41,4 @@
 <sub>createdAt : 2025.02.18</sub></br>
 - <a href=https://yeomyeom.tistory.com/145>[JavaScript] k진수에서 소수 개수 구하기</a>
 <sub>createdAt : 2025.02.09</sub></br>
-- <a href=https://yeomyeom.tistory.com/144>Next.js의 서버</a>
-<sub>createdAt : 2025.01.28</sub></br>
 
