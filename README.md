@@ -31,6 +31,9 @@
 
 #### Recent Posts
 
+
+- <a href=https://yeomyeom.tistory.com/145>브라우저 쉬는시간 압수하기</a>
+<sub>createdAt : 2026.03.08</sub></br>
 - <a href=https://yeomyeom.tistory.com/149>First Load JS 축소 및 번들 최적화 - 시즌 2</a>
 <sub>createdAt : 2026.01.22</sub></br>
 - <a href=https://yeomyeom.tistory.com/148>First Load JS 축소 및 번들 최적화 - 시즌 1</a>
@@ -39,6 +42,4 @@
 <sub>createdAt : 2025.09.25</sub></br>
 - <a href=https://yeomyeom.tistory.com/146>리렌더링 최적화 - 2편</a>
 <sub>createdAt : 2025.02.18</sub></br>
-- <a href=https://yeomyeom.tistory.com/145>[JavaScript] k진수에서 소수 개수 구하기</a>
-<sub>createdAt : 2025.02.09</sub></br>
 
