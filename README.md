@@ -32,7 +32,7 @@
 #### Recent Posts
 
 
-- <a href=https://yeomyeom.tistory.com/145>브라우저 쉬는시간 압수하기</a>
+- <a href=https://yeomyeom.tistory.com/145>메인스레드 쉬는 시간 압수하기</a>
 <sub>createdAt : 2026.03.08</sub></br>
 - <a href=https://yeomyeom.tistory.com/149>First Load JS 축소 및 번들 최적화 - 시즌 2</a>
 <sub>createdAt : 2026.01.22</sub></br>
