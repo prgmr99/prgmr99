@@ -32,6 +32,8 @@
 #### Recent Posts
 
 
+- <a href=https://yeomyeom.tistory.com/151>Frontend Fundamental 모의고사 2회차 회고</a>
+<sub>createdAt : 2026.03.28</sub></br>
 - <a href=https://yeomyeom.tistory.com/145>메인스레드 쉬는 시간 압수하기</a>
 <sub>createdAt : 2026.03.08</sub></br>
 - <a href=https://yeomyeom.tistory.com/149>First Load JS 축소 및 번들 최적화 - 시즌 2</a>
@@ -40,6 +42,4 @@
 <sub>createdAt : 2025.11.18</sub></br>
 - <a href=https://yeomyeom.tistory.com/147>당근 인터뷰 회고 🥕</a>
 <sub>createdAt : 2025.09.25</sub></br>
-- <a href=https://yeomyeom.tistory.com/146>리렌더링 최적화 - 2편</a>
-<sub>createdAt : 2025.02.18</sub></br>
 
