@@ -30,7 +30,7 @@
 
 #### Recent Posts
 
-- <a href=https://yeomyeom.tistory.com/153>정적 문서에서 전통적 SSR까지: 초기 웹 아키텍처의 진화</a>
+- <a href=https://yeomyeom.tistory.com/153>웹 아키텍처 진화의 본질과 역사적 흐름</a>
 <sub>createdAt : 2026.06.08</sub></br>
 - <a href=https://yeomyeom.tistory.com/152>[TypeScript] Exhaustive Check로 "수정 깜빡함" 버그 막기</a>
 <sub>createdAt : 2026.05.29</sub></br>
