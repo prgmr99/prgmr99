@@ -30,15 +30,14 @@
 
 #### Recent Posts
 
-
+- <a href=https://yeomyeom.tistory.com/153>정적 문서에서 전통적 SSR까지: 초기 웹 아키텍처의 진화</a>
+<sub>createdAt : 2026.06.08</sub></br>
+- <a href=https://yeomyeom.tistory.com/152>[TypeScript] Exhaustive Check로 "수정 깜빡함" 버그 막기</a>
+<sub>createdAt : 2026.05.29</sub></br>
 - <a href=https://yeomyeom.tistory.com/151>Frontend Fundamental 모의고사 2회차 회고</a>
 <sub>createdAt : 2026.03.28</sub></br>
 - <a href=https://yeomyeom.tistory.com/145>메인스레드 쉬는 시간 압수하기</a>
 <sub>createdAt : 2026.03.08</sub></br>
 - <a href=https://yeomyeom.tistory.com/149>First Load JS 축소 및 번들 최적화 - 시즌 2</a>
 <sub>createdAt : 2026.01.22</sub></br>
-- <a href=https://yeomyeom.tistory.com/148>First Load JS 축소 및 번들 최적화 - 시즌 1</a>
-<sub>createdAt : 2025.11.18</sub></br>
-- <a href=https://yeomyeom.tistory.com/147>당근 인터뷰 회고 🥕</a>
-<sub>createdAt : 2025.09.25</sub></br>
 
