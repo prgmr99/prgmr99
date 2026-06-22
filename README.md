@@ -30,6 +30,8 @@
 
 #### Recent Posts
 
+- <a href=https://yeomyeom.tistory.com/155>React Compiler는 도대체 useMemo를 어떻게 대신할까?</a>
+<sub>createdAt : 2026.06.19</sub></br>
 - <a href=https://yeomyeom.tistory.com/153>웹 아키텍처 진화의 본질과 역사적 흐름</a>
 <sub>createdAt : 2026.06.08</sub></br>
 - <a href=https://yeomyeom.tistory.com/152>[TypeScript] Exhaustive Check로 "수정 깜빡함" 버그 막기</a>
@@ -38,6 +40,4 @@
 <sub>createdAt : 2026.03.28</sub></br>
 - <a href=https://yeomyeom.tistory.com/145>메인스레드 쉬는 시간 압수하기</a>
 <sub>createdAt : 2026.03.08</sub></br>
-- <a href=https://yeomyeom.tistory.com/149>First Load JS 축소 및 번들 최적화 - 시즌 2</a>
-<sub>createdAt : 2026.01.22</sub></br>
 
