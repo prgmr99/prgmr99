@@ -30,6 +30,8 @@
 
 #### Recent Posts
 
+- <a href=https://yeomyeom.tistory.com/156>긴 리스트 꼭 가상화여야 할까? CSS 두 줄로 렌더링·페인팅 비용 72% 줄이기</a>
+<sub>createdAt : 2026.08.13</sub></br>
 - <a href=https://yeomyeom.tistory.com/155>React Compiler는 도대체 useMemo를 어떻게 대신할까?</a>
 <sub>createdAt : 2026.06.19</sub></br>
 - <a href=https://yeomyeom.tistory.com/153>웹 아키텍처 진화의 본질과 역사적 흐름</a>
@@ -38,6 +40,4 @@
 <sub>createdAt : 2026.05.29</sub></br>
 - <a href=https://yeomyeom.tistory.com/151>Frontend Fundamental 모의고사 2회차 회고</a>
 <sub>createdAt : 2026.03.28</sub></br>
-- <a href=https://yeomyeom.tistory.com/145>메인스레드 쉬는 시간 압수하기</a>
-<sub>createdAt : 2026.03.08</sub></br>
 
