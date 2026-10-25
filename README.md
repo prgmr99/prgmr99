@@ -31,6 +31,8 @@
 
 #### Recent Posts
 
+- <a href=https://yeomyeom.tistory.com/163>try/catch는 왜 async 함수의 에러를 못 잡을까?</a>
+<sub>createdAt : 2026.10.20</sub></br>
 - <a href=https://yeomyeom.tistory.com/156>긴 리스트 꼭 가상화여야 할까? CSS 두 줄로 렌더링·페인팅 비용 72% 줄이기</a>
 <sub>createdAt : 2026.08.13</sub></br>
 - <a href=https://yeomyeom.tistory.com/155>React Compiler는 도대체 useMemo를 어떻게 대신할까?</a>
@@ -39,6 +41,4 @@
 <sub>createdAt : 2026.06.08</sub></br>
 - <a href=https://yeomyeom.tistory.com/152>[TypeScript] Exhaustive Check로 "수정 깜빡함" 버그 막기</a>
 <sub>createdAt : 2026.05.29</sub></br>
-- <a href=https://yeomyeom.tistory.com/151>Frontend Fundamental 모의고사 2회차 회고</a>
-<sub>createdAt : 2026.03.28</sub></br>
 
