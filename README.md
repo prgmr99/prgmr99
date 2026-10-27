@@ -4,9 +4,9 @@
 
 #### Career
 
-- LIG System <sub>Defense Future Technology Research Team</sub> - <sub>Software Engineer (2026.12 ~ )</sub>
-- Vault Micro <sub>CameraFi Studio</sub> - <sub>Front-end developer (2025.01 ~ 2026.11)</sub>
-- Vault Micro <sub>CameraFi Studio</sub> - <sub>Front-end developer Intern (2024.07 ~ 2024.12)</sub>
+- LIG System <sub>Defense Future Technology Research Team</sub> _ <sub>Software Engineer (2026.12 ~ )</sub>
+- Vault Micro <sub>CameraFi Studio</sub> _ <sub>Front-end developer (2025.01 ~ 2026.11)</sub>
+- Vault Micro <sub>CameraFi Studio</sub> _ <sub>Front-end developer Intern (2024.07 ~ 2024.12)</sub>
 
 #### Activity
 
